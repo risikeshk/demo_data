@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "title": "leo",
+      "director": "Directed by Lokesh Kanagaraj",
+      "ratings": "4 Stars",
+      "platform": "Netflix"
+    },
+    {
+      "title": "Jailer",
+      "director": "Directed by Nelson",
+      "ratings": "3 Stars",
+      "platform": "Netflix"
+    },
+    {
+      "title": "House of the dragons",
+      "director": "Directed by Unknown",
+      "ratings": "4 Stars",
+      "platform": "Hotstar"
+    },
+    {
+      "title": "leo",
+      "director": "Directed by Lokesh Kanagaraj",
+      "ratings": "4 Stars",
+      "platform": "Netflix"
+    }
+  ]
+}
